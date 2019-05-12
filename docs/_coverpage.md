@@ -1,12 +1,6 @@
-![logo](_media/icon.svg)
+# The Language of Art, <small>version 4.9.4</small>
 
-# docsify <small>4.9.4</small>
+> A magical wiki that covers the key terminology and words associated with art (with examples for each!)
 
-> A magical documentation site generator.
 
-- Simple and lightweight (~21kB gzipped)
-- No statically built html files
-- Multiple themes
-
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Getting Started](#docsify)
+[Let's get started!](#docsify)
