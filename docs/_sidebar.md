@@ -8,7 +8,7 @@
 
 - Lesson Two: Composition
 
-  - [Composition]](deploy.md)
+  - [Composition](deploy.md)
   - [Perspective](helpers.md)
   - [Types of composition](vue.md)
 
