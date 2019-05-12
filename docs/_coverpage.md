@@ -1,4 +1,4 @@
-# The Language of Art, <small>version 4.9.4</small>
+# The Language of Art
 
 > A magical wiki that covers the key terminology and words associated with art (with examples for each!)
 
