@@ -1,28 +1,19 @@
-- Getting started
+- Lesson One: Key Words
 
-  - [Quick start](quickstart.md)
-  - [Writing more pages](more-pages.md)
-  - [Custom navbar](custom-navbar.md)
-  - [Cover page](cover.md)
+  - [Subject Matter](subject-matter.md)
+  - [Meaning](meaning.md)
+  - [Context](context.md)
+  - [Symbols / Symbolism](symbols.md)
+  - [Types of symbols](/types-symbols.md)
 
-- Customization
+- Lesson Two: Composition
 
-  - [Configuration](configuration.md)
-  - [Themes](themes.md)
-  - [List of Plugins](plugins.md)
-  - [Write a Plugin](write-a-plugin.md)
-  - [Markdown configuration](markdown.md)
-  - [Language highlighting](language-highlight.md)
+  - [Composition]](deploy.md)
+  - [Perspective](helpers.md)
+  - [Types of composition](vue.md)
 
-- Guide
-
-  - [Deploy](deploy.md)
-  - [Helpers](helpers.md)
-  - [Vue compatibility](vue.md)
-  - [CDN](cdn.md)
-  - [Offline Mode(PWA)](pwa.md)
-  - [Server-Side Rendering(SSR)](ssr.md)
-  - [Embed Files](embed-files.md)
-
-- [Awesome docsify](awesome.md)
-- [Changelog](changelog.md)
+- Lesson Three: Formal Elements
+    
+    - [Space](changelog.md)
+    - [Depth](depth.md)
+    - [Types of spatial devices](spatial-devices.md)
