@@ -4,7 +4,6 @@
   - [Meaning](meaning.md)
   - [Context](context.md)
   - [Symbols / Symbolism](symbols.md)
-  - [Types of symbols](/types-symbols.md)
 
 - Lesson Two: Composition
 
