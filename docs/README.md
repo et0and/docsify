@@ -1,4 +1,4 @@
-## The Language of Art
+## Nau mai, haere mai! Welcome to LoA!
 
 > A magical wiki of art history terms and key words
 
