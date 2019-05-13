@@ -18,3 +18,5 @@ The image above is funny to those who know the **context**. If you don't know ab
 According to the Oxford Dictionary, symbol is defined as
 
 > a mark or character used as a conventional representation of an object, function, or process, e.g. the letter or letters standing for a chemical element or a character in musical notation.
+
+## Types of symbols / symbolism
